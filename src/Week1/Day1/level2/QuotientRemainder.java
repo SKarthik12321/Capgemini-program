@@ -11,7 +11,9 @@ public class QuotientRemainder {
         double number2 = sc.nextDouble();
         double quotient = number1 / number2;
         double remainder = number1 % number2;
-        System.out.println("The Quotient is " + quotient + " and Remainder is " + remainder + " of two number " + number1 + " and " + number2);
+        System.out.println("The Quotient is " + quotient + " and Remainder is " + remainder +
+                " of two number " + number1 + " and " + number2);
         sc.close();
     }
 }
+
