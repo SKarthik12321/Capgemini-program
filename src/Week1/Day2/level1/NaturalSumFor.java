@@ -21,3 +21,4 @@ public class NaturalSumFor {
         sc.close();
     }
 }
+
