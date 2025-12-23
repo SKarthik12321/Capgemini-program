@@ -1,4 +1,4 @@
-package Object_Oriented_Programming.OPPFundamental.level1;
+package Object_Oriented_Programming.OOPFundamental.level1;
 
 public class Item {
     private int itemCode;

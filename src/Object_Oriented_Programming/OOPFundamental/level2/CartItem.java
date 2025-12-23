@@ -1,4 +1,4 @@
-package Object_Oriented_Programming.OPPFundamental.level2;
+package Object_Oriented_Programming.OOPFundamental.level2;
 
 public class CartItem {
     private String itemName;
